@@ -33,14 +33,14 @@ footer {
 }
 
 .featured-image {
-   width: 100%;
+   width: 70%;
    max-height: 300px;
    object-fit: cover;
    object-position: center;
 }
 
-.profile img {
-   width: 7px;
+.profile-img {
+   width: 150px;
 }
 
 .card {
@@ -117,8 +117,8 @@ main {
 }
 
 .i-image {
-   max-height: 50;
-  max-width: 50;
+ max-height: 50px;
+  max-width: 50px;
   object-fit: cover;
   object-position: center;
 }
