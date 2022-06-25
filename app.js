@@ -6,7 +6,6 @@ const port = 8000;
 app.use(express.static("public"));
 app.use("/css", express.static(__dirname + "public/css"));
 
-
 app.set("views", "./views");
 app.set("view engine", "ejs");
 
